@@ -240,14 +240,28 @@ form {
 
 .youtube1 {
     position: absolute;
-    padding-left: 150px;
+    padding-left: 50px;
     padding-right: 50px;
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: black;
     z-index: 0;
     color: #4aaaa5;
-    margin-left: 100px;
-    margin-top: 245px;
-    margin-bottom: 15px;
+    float: ;
+    left: 435px;
+    top: 375px;
+}
+
+.youtube2 {
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    z-index: 0;
+    color: #4aaaa5;
+    float: ;
+    left: 435px;
+    top: 700px;
 }
