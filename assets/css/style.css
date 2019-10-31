@@ -4,7 +4,7 @@
     left: 0;
     top: 0;
     width: 100%;
-    padding: 50px;
+    padding: 40px;
     background-color: #ffffff;
     color: white;
     text-align: center;
@@ -68,7 +68,7 @@ body {
     font-weight: bold;
     top: -6px;
     z-index: 4;
-    padding-bottom: 60px;
+    padding-bottom: 40px;
 
 }
 
@@ -213,6 +213,10 @@ form {
     margin-left: 159px;
     
     
+}
+
+.submit:hover {
+    background-color: magenta;
 }
 
 .youtube {
