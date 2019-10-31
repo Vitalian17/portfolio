@@ -1,1 +1,4 @@
 # portfolio
+---
+permalink:index.html
+---
