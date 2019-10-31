@@ -1,0 +1,253 @@
+
+#menu {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 50px;
+    background-color: #ffffff;
+    color: white;
+    text-align: center;
+    border-bottom: solid;
+    border-color: #dddddd;
+    border-width: 2px;
+    z-index: 3;
+  }
+
+  .button1 {
+      color: #777777;
+      text-decoration: none;
+      font-size: 22px;
+      margin-left: 580px;
+      border-right: solid;
+      padding-right: 10px;
+      border-color: #777777;
+    }
+
+.button2 {
+    padding-left: 10px;
+    border-right: solid;
+    text-decoration: none;
+    font-size: 22px;
+    color: #777777;
+    padding-right: 15px;
+    border-color: #777777;
+
+}
+
+.button3 {
+    text-decoration: none;
+    font-size: 22px;
+    color: #777777;
+    padding-left: 10px;
+
+}
+
+.wrap {
+    width:960px;
+    margin:0 auto;
+}
+
+body {
+    background-image: url(../prism/prism.png);
+    width: 960px;
+    margin: auto;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.logo {
+    position: fixed;
+    background-color: #4aaaa5;
+    color: white;
+    text-align: center;
+    width: 200px;
+    padding: 35px;
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    top: -6px;
+    z-index: 4;
+    padding-bottom: 60px;
+
+}
+
+.img1 {
+    margin-left: 030px;
+    margin-right: 20px;
+    float: left;
+    border-style: solid;
+    border-color: #4aaaa5;
+    border-width: 1px;
+    
+}
+
+#p2, #p1, #p3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    line-height: 34px;
+    margin-bottom: 20px;
+    color: #777777;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    
+}
+
+.box2 {
+    position: relative;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 4px; 
+    margin-top: 160px; 
+
+}
+
+.box5 {
+    position: relative;
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #dddddd;
+    border-width: 4px; 
+    margin-top: 160px; 
+}
+
+.box3 {
+    position: relative;
+    background-color: #dddddd;
+    padding: 2px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: #4aaaa5;
+    margin-top: 30px; 
+    margin-left: 30px;
+    
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    border-top: solid;
+    border-color: #4aaaa5;
+    border-width: 6px;
+
+  }
+
+#label {
+      color: #777777;
+      float: left;
+      
+      
+
+    }
+
+.input1 {
+        width: 600px;
+        margin-left: 160px;
+        
+    }
+  
+
+
+.input2 {
+        width: 600px;
+        margin-left: 160px;
+        
+    }
+
+
+.input3 {
+        width: 600px;
+        margin-left: 160px;
+    
+    }
+
+form {
+    display: inline-block;
+    
+  }
+
+.nametitle {
+      margin-left: -590px;
+      text-align: center;
+      
+  }
+
+.email {
+      margin-top: 20px;
+      text-align: center;
+      margin-left: -590px
+
+  }
+
+.message {
+    margin-top: 20px;
+    margin-left: 160px;
+
+}
+
+.submit {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: 80px;
+    margin-left: 159px;
+    
+    
+}
+
+.youtube {
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    z-index: 0;
+    color: #4aaaa5;
+    margin-left: 100px;
+    margin-top: 245px;
+    margin-bottom: 15px;
+}
+
+.img2 {
+    width: 300px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    float: 
+    
+    
+}
+
+.youtube1 {
+    position: absolute;
+    padding-left: 150px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: black;
+    z-index: 0;
+    color: #4aaaa5;
+    margin-left: 100px;
+    margin-top: 245px;
+    margin-bottom: 15px;
+}
