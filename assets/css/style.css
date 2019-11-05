@@ -113,16 +113,7 @@ body {
     margin-top: 160px; 
 }
 
-.box3 {
-    position: relative;
-    background-color: #dddddd;
-    padding: 2px;
-    margin-top: 30px;
-    margin-left: 30px;
-    margin-right: 30px;
-    margin-bottom: 30px;
 
-}
 
 h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -277,7 +268,7 @@ form {
     color: #4aaaa5;
     float: ;
     left: 435px;
-    top: 375px;
+    top: 335px;
     border: solid; 
     border-color: #4aaaa5;
 }
@@ -293,7 +284,7 @@ form {
     color: #4aaaa5;
     float: ;
     left: 435px;
-    top: 700px;
+    top: 665px;
     border: solid; 
     border-color: #4aaaa5;
 }
