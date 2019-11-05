@@ -1,4 +1,4 @@
 # portfolio
 ---
-permalink:index.html
+permalink:aboutme2.html
 ---
