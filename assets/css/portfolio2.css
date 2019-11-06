@@ -147,3 +147,8 @@ h1 {
     margin-right: 80px;
 
 }
+
+@media (max-width: 980px) {
+    p { 
+      font-size: 8px;
+    }
