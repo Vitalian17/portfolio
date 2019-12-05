@@ -68,6 +68,12 @@ h1 {
 
 }
 
+#resume1, #resume2, #resume3 {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .footer {
     position: absolute;
     right: 0;
@@ -96,6 +102,7 @@ h1 {
 
 .img2 {
     width: 300px;
+    height: 300px;
     margin-left: 30px;
     margin-bottom: 20px;
     border: solid; 
@@ -139,13 +146,19 @@ h1 {
     position: absolute;
     top: 240px;
     left: 120px;
+    text-align: center;
     color: #ffffff;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding-left: 30px;
-    padding-right: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
     border-style: double;
     border-width: 4px;
     margin-right: 80px;
+    margin-bottom: 20px;
+
+}
+
+#chickenbutton {
 
 }
 
